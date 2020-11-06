@@ -1,1 +1,1 @@
-This is a Webscraping program that scrapes current and past stock prices (upto 45 days). To get live prices just use the get_live funciton (currently having issues and unavailable) and to get historical data just use the get_past function. 
+This is a Webscraping program that scrapes current and past stock prices (upto 45 days). To get live prices just use the get_live function and to get historical data just use the get_past function. The functions can be found in the Code.py file.
