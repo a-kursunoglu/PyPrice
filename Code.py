@@ -95,6 +95,3 @@ def get_past(symbol,days):
         prices.insert(0,"Open")
         prices.insert(0,"Date")
         return(prices)
-
-a=get_live('AMZN')
-print(a)
